@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-26 00:40:42</sys_created_on>
+        <sys_id>a6e8047edb480010723e1461399619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_115628_bmo_iploo_ip_address_info.x_115628_bmo_iploo.ip_address_info_user</sys_name>
+        <sys_package display_value="BMO IPLookup" source="x_115628_bmo_iploo">b1af7326db480010723e14613996199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BMO IPLookup">b1af7326db480010723e14613996199d</sys_scope>
+        <sys_security_acl display_value="x_115628_bmo_iploo_ip_address_info">a6e8047edb480010723e1461399619c6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a6e8047edb480010723e1461399619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-26 00:40:42</sys_updated_on>
+        <sys_user_role display_value="x_115628_bmo_iploo.ip_address_info_user" name="x_115628_bmo_iploo.ip_address_info_user">26e80c7adb480010723e14613996199c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
